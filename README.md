@@ -131,8 +131,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sourav Bhadra - [sourav.bhadra@slu.edu](sourav.bhadra@slu.edu)
-Vasit Sagan - [vasit.sagan@slu.edu](vasit.sagan@slu.edu)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
