@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/souravbhadra/uav-solar-sensor-angle">
     <img src="images/graphical_abstract.png" alt="Logo" width="2300" height="350">
   </a>
 </div>
@@ -46,16 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Calculating solar-sensor zenith and azimuth angles for hyperspectral images collected by UAVs are important in terms of conducting bi-directional reflectance function (BRDF) correction or radiative transfer modeling-based applications in remote sensing. These applications are even more necessary to perform high-throughput phenotyping and precision agriculture tasks. This study demonstrates an automated Python framework that can calculate the solar-sensor zenith and azimuth angles for a push-broom hyperspectral camera equipped in a UAV. First, the hyperspectral images were radiometrically and geometrically corrected. Second, the high-precision Global Navigation Satellite System (GNSS) and Inertial Measurement Unit (IMU) data for the flight path was extracted and corresponding UAV points for each pixel were identified. Finally, the angles were calculated using spherical trigonometry and linear algebra.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
