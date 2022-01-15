@@ -5,13 +5,14 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+# UAV Solar-Sensor Angle Calculation
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/graphical_abstract.png" alt="Logo" width="2300" height="400">
   </a>
-  <h3 align="center">UAV Solar-Sensor Angle Calculation</h3>
 </div>
 
 
@@ -33,8 +34,6 @@
         <li><a href="#datasets">Datasets</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
