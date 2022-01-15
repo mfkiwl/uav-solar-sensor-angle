@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/graphical_abstract.png" alt="Logo" width="2300" height="942">
+    <img src="images/graphical_abstract.png" alt="Logo" width="2300" height="700">
   </a>
   <h3 align="center">UAV Solar-Sensor Angle Calculation</h3>
 </div>
